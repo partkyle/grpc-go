@@ -1,9 +1,10 @@
-module google.golang.org/grpc
+module github.com/partkyle/grpc-go
 
 require (
 	cloud.google.com/go v0.26.0 // indirect
 	github.com/BurntSushi/toml v0.3.1 // indirect
 	github.com/client9/misspell v0.3.4
+	github.com/gogo/protobuf v1.2.1
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/mock v1.1.1
 	github.com/golang/protobuf v1.2.0
